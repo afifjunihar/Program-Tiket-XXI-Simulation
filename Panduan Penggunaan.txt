@@ -7,4 +7,4 @@ Program ini merupakan simulasi dari Tiket yang ada di Bioskop.
 	username = afifjunihar
 	password = Bismillah
 
-4.Program ini menerapkan Exception Handling, OOP, Hash, Naming Convention & String Manupilation.
+4.Program ini menerapkan Exception Handling, OOP, Hash(Bcryot), Naming Convention & String Manupilation.
