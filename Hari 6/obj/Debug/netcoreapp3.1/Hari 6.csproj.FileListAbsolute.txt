@@ -1,0 +1,16 @@
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.csproj.AssemblyReference.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.AssemblyInfoInputs.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.AssemblyInfo.cs
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.csproj.CoreCompileInputs.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.genruntimeconfig.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\`.exe
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\`.deps.json
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\`.runtimeconfig.json
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\`.runtimeconfig.dev.json
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\`.dll
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\`.pdb
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\`.dll
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\`.pdb
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Afif Junihar Fakri\source\repos\Hari 6\Hari 6\obj\Debug\netcoreapp3.1\Hari 6.csproj.CopyComplete

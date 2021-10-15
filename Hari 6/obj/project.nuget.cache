@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Da2t+Hp9FSAZey0aqva5lvyZ6J0bFHXwFjfPPERoV2NJCYIfJ7Ic2n02Nfhyz45QlGajxRNTHYMemRufU3BVIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afif Junihar Fakri\\source\\repos\\Hari 6\\Hari 6\\Hari 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afif Junihar Fakri\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
