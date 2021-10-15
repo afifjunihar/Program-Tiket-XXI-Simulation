@@ -1,0 +1,10 @@
+Program ini merupakan simulasi dari Tiket yang ada di Bioskop.
+
+1.Setiap kali tiket dibeli, maka sisa kursi yang tersisa akan berkurang.
+2.Film dapat diubah/ditambah/dihapus menggunakan menu admin.
+3.Untuk dapat masuk ke menu admin : 
+
+	username = afifjunihar
+	password = Bismillah
+
+4.Program ini menerapkan Exception Handling, OOP, Hash, Naming Convention & String Manupilation.
