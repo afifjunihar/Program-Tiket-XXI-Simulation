@@ -97,6 +97,7 @@ namespace Hari_6
             }
             if (admin)
             {
+                Console.ReadKey();
                 AdminMenuFilm(listAdmin, listFilm);
             }
             else 
