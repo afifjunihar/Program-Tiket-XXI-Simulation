@@ -31,7 +31,7 @@ namespace Hari_6
                     Console.WriteLine("Selamat Datang di Bioskop XXI\n");
                     Console.WriteLine("=============================\n");
                     Console.WriteLine("Semoga Harimu Menyenangkan\n");
-                    string[] menuUtama = { "1. Film Hari Ini", "2. Pesan Tiket", "3. Keluar", "0.Login Admin" };
+                    string[] menuUtama = { "1. Film Hari Ini", "2. Pesan Tiket", "3. Keluar", "0. Login Admin" };
                     foreach (string a in menuUtama)
                     {
                         Console.WriteLine(a);
@@ -322,12 +322,14 @@ namespace Hari_6
                 int idFilm = int.Parse(Console.ReadLine());
                 if (idFilm == 0) 
                 {
-                    MenuAdmin(listAdmin, listFilm);
+                    AdminMenuFilm(listAdmin, listFilm);
                 }
                 else 
                 { 
                     listFilm.RemoveAt(idFilm - 1);
                     Console.WriteLine($"Film {listFilm[idFilm].nama} Berhasil di Hapus");
+                    Console.ReadKey();
+                    AdminMenuFilm(listAdmin, listFilm);
                 }
             }
             catch (Exception)
